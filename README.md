@@ -1,4 +1,6 @@
 # Face-Detection-Tracking-and-Clustering
+
+## 主要使用的是本代码库中的3d特征提取的代码，在此感谢[原作者](https://github.com/ankuPRK/Face-Detection-Tracking-and-Clustering)
 We detect and track faces in video, then extract features from those face tracks 
 and try to cluster them into given number of Clusters, each Cluster representing a unique person.
 To get a full idea of our project, refer to the file "ppt_explaining_the_project.pdf". Results were obtained on video:
